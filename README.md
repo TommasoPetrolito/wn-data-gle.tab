@@ -9,9 +9,12 @@ The original files containing the wordnet data, ga-data.adj.po, ga-data.adv.po, 
 The tab format is the one used within the Open Multilingual Wordnet (OMW) project: http://compling.hss.ntu.edu.sg/omw/.
 
 Some statistics:
-33472 synsets
-36348 words
-85967 wordsenses
+
+33472 synsets,
+
+36348 words,
+
+85967 wordsenses.
 
 With regard to the License, the one specified in the originale readme file is GNU FDL (Free Document Foundation), usually not used for software, probably because the main purpose of the original resource is a paper Dictionary/Thesaurus.
 
