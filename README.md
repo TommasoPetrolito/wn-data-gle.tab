@@ -7,6 +7,7 @@ The python script maketable.py was used to produce a tab version of the Wordnet 
 The original files containing the wordnet data, ga-data.adj.po, ga-data.adv.po, ga-data.noun.po, ga-data.verb.po, have been concatenated (the first title lines of each file have been deleted before) to produce the maketable.py input file: ga-data.po
 
 The tab format is the one used within the Open Multilingual Wordnet (OMW) project: http://compling.hss.ntu.edu.sg/omw/.
+All the synsets were provided with PWN (Princeton WordNet) 3.0 IDs.
 
 Some statistics:
 
