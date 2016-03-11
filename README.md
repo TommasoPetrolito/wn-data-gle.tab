@@ -10,11 +10,11 @@ The tab format is the one used within the Open Multilingual Wordnet (OMW) projec
 
 Some statistics:
 
-33472 synsets,
+33472 Synsets
 
-36348 words,
+36348 Words
 
-85967 wordsenses.
+85967 Senses.
 
 With regard to the License, the one specified in the originale readme file is GNU FDL (Free Document Foundation), usually not used for software, probably because the main purpose of the original resource is a paper Dictionary/Thesaurus.
 
