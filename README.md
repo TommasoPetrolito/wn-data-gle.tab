@@ -16,7 +16,7 @@ Some statistics:
 
 85967 Senses
 
-With regard to the License, the one specified in the originale readme file is GNU FDL (Free Document Foundation), usually not used for software, probably because the main purpose of the original resource is a paper Dictionary/Thesaurus.
+With regard to the License, the one specified in the original readme file is GNU FDL (Free Document Foundation), usually not used for software, probably because the main purpose of the original resource is a paper Dictionary/Thesaurus.
 
 The GPL GNU General Public License is the obvious natural complement of GNU FDL for software resources (they are equivalent in terms of legal rights on the resources).
 
