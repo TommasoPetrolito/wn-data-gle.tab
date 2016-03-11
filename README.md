@@ -14,7 +14,7 @@ Some statistics:
 
 36348 Words
 
-85967 Senses.
+85967 Senses
 
 With regard to the License, the one specified in the originale readme file is GNU FDL (Free Document Foundation), usually not used for software, probably because the main purpose of the original resource is a paper Dictionary/Thesaurus.
 
